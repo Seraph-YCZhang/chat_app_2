@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and Typescript
 
 This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app with typescript.
@@ -25,3 +26,7 @@ yarn create next-app --example with-chakra-ui-typescript with-chakra-ui-typescri
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+=======
+# chat_app_2
+websocket audio/text chat app
+>>>>>>> 0d61e2cc2bbee85760df834b4c3e6de9813f9efc
